@@ -2,7 +2,7 @@ body{
   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   margin: 0;
   padding: 20px;
-  background-color: #ddd;
+  background-color: #dcdb8f;
   line-height: 1.8;
 }
 
@@ -21,10 +21,10 @@ img{
 .wrapper{
   max-width: 600px;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #5c725e;
   padding: 10px;
   border-radius: 5px;
-  box-shadow: 0 0 10px 0px rgba(0,0,0,0.2);
+  box-shadow: 0 0 15px 0px rgba(0,0,0,0.2);
 }
 
 #namecard{
@@ -36,6 +36,7 @@ img{
 h1.name{
   font-weight: normal;
   font-size: 20px;
+  color: #ffffff;
   padding-left: 10px;
   margin-bottom: 10px;
 }
@@ -43,7 +44,7 @@ h1.name{
 /* 経歴部分 */
 h2.title{
   font-size: 12px;
-  color: #999;
+  color: #000;
   margin-bottom: 5px;
 }
 
@@ -54,7 +55,8 @@ h2.title{
 ul.history_list li{
   list-style: none;
   display: flex;
-  border-bottom: 1px dotted #ccc;/* 下線の点線 */
+  color: #ffffff;
+  border-bottom: 1px dotted #ffffff;/* 下線の点線 */
   margin-bottom: 1em;
   padding-bottom: 0.2em;
 }
