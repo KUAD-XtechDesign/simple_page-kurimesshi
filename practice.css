@@ -1,0 +1,18 @@
+h1{
+    font-size: 16px;
+    color: #f00;
+}
+
+.txt{
+    background-color: rgb(200,200,200);
+}
+
+#pagetitle{
+    font-weight: normal;
+}
+
+.txt .memo{
+    color: #0f0;
+}
+
+
